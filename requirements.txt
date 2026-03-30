@@ -1,0 +1,14 @@
+torch>=2.0
+transformer_lens
+sae_lens
+transformers
+numpy
+pandas
+scikit-learn
+umap-learn
+plotly
+matplotlib
+seaborn
+tqdm
+psutil
+huggingface_hub
