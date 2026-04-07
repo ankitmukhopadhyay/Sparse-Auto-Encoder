@@ -1,0 +1,1225 @@
+{
+  "math": [
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching",
+      "sub": "math_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    }
+  ],
+  "code": [
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "computer_programming"
+    }
+  ],
+  "factual": [
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "health_fitness_beauty_or_self_care"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "health_fitness_beauty_or_self_care"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "health_fitness_beauty_or_self_care"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    }
+  ],
+  "creative": [
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "creative_ideation"
+    }
+  ],
+  "emotional": [
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Other"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Other"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Other"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Guidance"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "greetings_and_chitchat",
+      "sub": "emotional_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Guidance"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Guidance"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Other"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "greetings_and_chitchat",
+      "sub": "emotional_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Other"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Creative Generation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Recommendation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "greetings_and_chitchat",
+      "sub": "emotional_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "greetings_and_chitchat",
+      "sub": "emotional_keyword"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Factual Lookup"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Guidance"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Info Synthesis"
+    }
+  ],
+  "reasoning": [
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "wildchat",
+      "original_topic": "tutoring_or_teaching"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Analysis"
+    },
+    {
+      "source": "search_arena",
+      "original_intent": "Explanation"
+    }
+  ]
+}
