@@ -1,0 +1,13 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large binary files (feature activations are 85MB+)
+results/feature_activations/
+
+# Internal fix/debug scripts
+_fix_nb04.py
+_run_cells.py
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,16 @@
+{
+  "model_name": "gpt2",
+  "n_layers": 12,
+  "d_model": 768,
+  "n_heads": 12,
+  "target_layers": [
+    2,
+    6,
+    10
+  ],
+  "sae_release": "gpt2-small-res-jb",
+  "sae_width": 24576,
+  "model_device": "cuda",
+  "model_dtype": "bfloat16",
+  "seed": 42
+}
